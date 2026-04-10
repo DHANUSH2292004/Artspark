@@ -1,15 +1,14 @@
 # Artspark-🎨 Art Commission System (PHP Project)
 
-📌 Overview
-
+📌 **Overview:**
 The Art Commission System is a web-based application developed using PHP and MySQL that allows clients to request custom artwork from artists. It simplifies the communication process by collecting all required details through a structured form and storing them in a database for easy management.
 
-📖 Theory / Concept
+📖 **Theory / Concept:**
 🧠 What is an Art Commission System?
 
 An Art Commission System is a digital platform that connects clients and artists. Clients can request customized artwork by providing specifications such as style, size, and deadlines, while artists can manage and organize these requests efficiently.
 
-🔍 Problem Statement
+🔍 **Problem Statement:**
 
 Traditional art commission processes often face issues such as:
 
@@ -18,7 +17,7 @@ Traditional art commission processes often face issues such as:
 ❌ Difficulty in managing multiple orders
 ❌ No centralized system for storing client data
 
-💡 Proposed Solution
+💡 **Proposed Solution:**
 
 This system provides:
 
@@ -27,14 +26,14 @@ This system provides:
 ✅ Easy retrieval and management of commissions
 ✅ Support for image uploads (reference images)
 
-⚙️ System Workflow
+⚙️ **System Workflow:**
 Client fills out the commission form
 Uploads reference image
 Submits the request
 Data is stored in MySQL database
 Artist/admin can view and manage requests
 
-🧩 Modules in the System
+🧩 **Modules in the System:**
 User Interface Module
 Handles form input and interaction
 Data Processing Module (PHP)
@@ -44,7 +43,7 @@ Stores commission details
 File Management Module
 Manages uploaded reference images
 
-🚀 Features
+🚀 **Features:**
 🎯 Submit art commission requests
 🖼️ Upload reference images
 🎨 Select artwork type (Portrait / Digital / Sketch)
@@ -54,13 +53,13 @@ Manages uploaded reference images
 🗄️ MySQL integration
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used:**
 Frontend: HTML, CSS
 Backend: PHP
 Database: MySQL
 Server: XAMPP / WAMP
 
-🚀 Future Enhancements
+🚀 **Future Enhancements:**
 🔑 User authentication system
 📊 Admin dashboard
 💬 Chat between client & artist
